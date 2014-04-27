@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFragment</string>
+
+
+    <string-array name="List">
+        <item>X-Men: Days of Future Past</item>
+        <item>Captain America: The Winter Soldier</item>
+        <item>300: Rise of an Empire</item>
+        <item>Transformers: Age of Extinction</item>
+        <item>The Amazing Spider-Man 2</item>
+        <item>Game of Thrones</item>
+    </string-array>
+
+    <string-array name="Details">
+        <item>The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.</item>
+        <item>Steve Rogers struggles to embrace his role in the modern world and battles a new threat from old history: the Soviet agent known as the Winter Soldier.</item>
+        <item>Greek general Themistokles leads the charge against invading Persian forces led by mortal-turned-god Xerxes and Artemisia, vengeful commander of the Persian navy.</item>
+        <item> An automobile mechanic and his daughter make a discovery that brings down the Autobots and Decepticons - and a paranoid government official - on them.</item>
+        <item> Peter Parker runs the gauntlet as the mysterious company Oscorp sends up a slew of supervillains against him, impacting on his life.</item>
+        <item> Seven noble families fight for control of the mythical land of Westeros.</item>
+
+    </string-array>
+
+</resources>
